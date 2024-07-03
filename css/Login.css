@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 350px;
+    height: 100vh;
+    
+}
+.bg-1{
+    box-shadow: 2px 4px 16px rgb(40, 40, 40);
+    border-radius: 5px;
+}
